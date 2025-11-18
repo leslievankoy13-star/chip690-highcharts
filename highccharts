@@ -115,7 +115,7 @@
         series: [
           {
             name: "Average",
-            data
+            data: data
           }
         ],
         credits: { enabled: false }
